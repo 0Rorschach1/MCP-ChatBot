@@ -46,8 +46,8 @@ ollama pull llama3.1
 ### 3. Clone and install project dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/0Rorschach1/MCP-ChatBot.git
+cd MCP-ChatBot
 make install
 ```
 
